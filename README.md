@@ -1,12 +1,12 @@
 # Ionic 4 Icon Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Icon Tutorial](https://www.youtube.com/watch?v=3iosJnDJGbA) as well as the blog article [Ionic 4 Icon Tutorial](https://blog.jamibot.com/ionic-4-icon).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Ionic 4 Icon Tutorial](https://www.youtube.com/watch?v=3iosJnDJGbA) as well as the blog article [Ionic 4 Icon Tutorial](https://blog.jamibot.com/ionic-4-icon).
 
 [![Ionic 4 Icon Tutorial](https://img.youtube.com/vi/3iosJnDJGbA/maxresdefault.jpg)](https://www.youtube.com/watch?v=3iosJnDJGbA)
 
 Simple examples of the Ionic 4 Icon working with different sizes, colors, symbols, styles, and an icon in a button.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development tutorials.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web development tutorials.
 
 ## Installation
 
